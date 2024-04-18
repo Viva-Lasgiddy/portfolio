@@ -1,0 +1,12 @@
+#drip{
+    background-color: aqua;
+    background-image: url("../src/assets/ANTLZ.jpg");
+}
+
+
+#drive{
+    display: flex;
+    color: brown;
+    text-align: center;
+    gap: 10px;
+  }
